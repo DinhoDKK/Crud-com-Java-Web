@@ -1,0 +1,13 @@
+
+
+<!-- Bootstrap core CSS -->
+<link href="resources/bootstrap5/css/bootstrap.min.css" rel="stylesheet">
+
+
+<style>
+
+
+main>.container {
+	padding: 60px 15px 0;
+}
+</style>
